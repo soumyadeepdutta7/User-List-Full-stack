@@ -27,15 +27,11 @@ To get started with the Swimlane Task Manager locally, follow these steps:
    ```bash
    git clone https://github.com/soumyadeepdutta7/User-List-Full-stack.git
 
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd swimlane-ui
-
-3. **Install Dependencies**:
+2. **Install Dependencies**:
    ```bash
    npm install
 
-4. **Run the Application**:
+3. **Run the Application**:
    ```bash
    npm run dev
 
