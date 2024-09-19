@@ -59,5 +59,5 @@ To get started with the Swimlane Task Manager locally, follow these steps:
 
 You can view a live demo of the application at the following link:
 
-[Live Demo](https://swimlane-management-app.netlify.app/)
+[Live Demo](https://user-management-list-app.netlify.app/)
 
