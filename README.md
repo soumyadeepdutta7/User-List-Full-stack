@@ -49,5 +49,19 @@ To get started with the Swimlane Task Manager locally, follow these steps:
 
 
 
+## Technologies Used
 
+- **React**: JavaScript library for building user interfaces.
+- **Redux**: State management library for handling application state.
+- **CSS**: Styles for layout and design.
+- **HTML**: Markup language for the structure of the web application.
+- **Node.js**: JavaScript runtime for server-side operations (development environment).
+- **npm**: Package manager for managing project dependencies.
+
+
+## Live Demo
+
+You can view a live demo of the application at the following link:
+
+[Live Demo](https://swimlane-management-app.netlify.app/)
 
