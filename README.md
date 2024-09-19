@@ -25,7 +25,7 @@ To get started with the Swimlane Task Manager locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/soumyadeepdutta7/swimlane.git
+   git clone https://github.com/soumyadeepdutta7/User-List-Full-stack.git
 
 2. **Navigate to the Project Directory**:
    ```bash
